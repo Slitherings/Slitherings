@@ -6,6 +6,7 @@
 **I'm attending:** University of North Texas 
 
 **Degree:** Bachelors of Science in Business Computer Information Systems
+![image](https://user-images.githubusercontent.com/25497326/200516354-1c9a2fff-66b5-444b-9b77-43a7beaf81fe.png)
 
 **Contact**
 [Discord] : Rengo#2348
