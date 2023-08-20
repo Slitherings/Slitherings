@@ -21,8 +21,6 @@ Hello
 
 **Degree:** Bachelors of Science in Business Computer Information Systems
 
-### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Slitherings&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ![Slitherings Stats](https://github-readme-stats.vercel.app/api?username=Slitherings&show_icons=true&theme=tokyonight)
